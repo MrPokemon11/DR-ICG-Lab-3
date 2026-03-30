@@ -17,9 +17,9 @@ MonoBehaviour:
     position:
       serializedVersion: 2
       x: 264
-      y: 295
+      y: 449
       width: 474
-      height: 2492
+      height: 2160
     contents:
     - model: {fileID: 8926484042661614700}
       id: 0
@@ -30,14 +30,17 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614756}
       id: 0
       isStickyNote: 0
+    - model: {fileID: 8926484042661615053}
+      id: 0
+      isStickyNote: 0
   stickyNoteInfos: []
   categories: []
   uiBounds:
     serializedVersion: 2
     x: 57
-    y: 295
+    y: 449
     width: 681
-    height: 2423
+    height: 2160
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -126,7 +129,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614703}
-  m_UIPosition: {x: 289, y: 354}
+  m_UIPosition: {x: 289, y: 508}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -476,7 +479,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614929}
   - {fileID: 8926484042661614975}
   - {fileID: 8926484042661615042}
-  m_UIPosition: {x: 289, y: 1642}
+  m_UIPosition: {x: 289, y: 1555}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -2731,7 +2734,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661615047}
       inputSlot: {fileID: 8926484042661615057}
-    position: {x: 79, y: 2373}
+    position: {x: 120, y: 2161}
     expandedSlots: []
     expanded: 1
     supecollapsed: 0
@@ -2788,7 +2791,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615061}
   - {fileID: 8926484042661615063}
   - {fileID: 8926484042661615066}
-  m_UIPosition: {x: 289, y: 2098}
+  m_UIPosition: {x: 289, y: 1964}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
